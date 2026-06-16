@@ -1,0 +1,8 @@
+Algoritmo para verificar y compartir información de manera segura en internet:
+
+1. Recibir o encontrar la noticia o información en la plataforma digital.
+2. Evaluar la fuente original para determinar si es un medio confiable, institucional o un autor reconocido.
+3. Buscar la misma noticia en otros motores de búsqueda o portales oficiales para contrastar si ha sido replicada o desmentida.
+4. Analizar la fecha de publicación y el contexto para asegurar que no sea información antigua sacada de contexto.
+5. Identificar si el contenido apela a emociones extremas o lenguaje sensacionalista que busque manipulación.
+6. Si la información es verídica y útil, proceder a compartirla citando la fuente; de lo contrario, descartarla y reportarla.
