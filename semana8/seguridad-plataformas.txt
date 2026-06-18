@@ -1,0 +1,5 @@
+Evitar a toda costa publicar información personal que nos haga vulnerables ante desconocidos.
+Gestionar nuestras credenciales con responsabilidad, evitándolas compartir o dejar visibles para terceros.
+Asegurarnos siempre de estar navegando por canales seguros para evitar que nuestros datos sean interceptados.
+Mantener un control sobre quién ingresa a la plataforma para saber exactamente qué usuarios están interactuando.
+No dejar toda la base de datos al alcance de todos; es vital segmentar quién puede ver qué para evitar fugas de datos sensibles.
