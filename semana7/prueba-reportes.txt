@@ -1,0 +1,1 @@
+Al realizar una petición POST a '/reportes', el sistema guarda el objeto enviado en el arreglo 'reportes' en memoria. Al realizar una petición GET a '/reportes', el servidor responde con la lista completa de objetos almacenados en formato JSON.
