@@ -1,0 +1,5 @@
+Sistema operativo: Es la base o el entorno donde vive todo; sin él, no tendríamos cómo gestionar los recursos de la máquina ni ejecutar el servidor.
+​Node.js: Es el motor que permite que nuestro código JavaScript pueda ejecutarse en el servidor y procesar las peticiones que hacemos.
+​Aplicación server.js: Es nuestro archivo de trabajo donde programamos las rutas y la lógica que define cómo debe responder el servidor.
+​Puerto: Es como una "puerta" específica en la computadora por la cual el servidor se comunica con el exterior para recibir las solicitudes.
+​Logs: Son el registro detallado de todo lo que sucede; son fundamentales para saber si el servidor está trabajando bien o si hubo algún error.
