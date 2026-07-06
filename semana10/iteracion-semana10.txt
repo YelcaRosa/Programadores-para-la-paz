@@ -1,0 +1,6 @@
+¿Qué 2 tareas del backlog harías primero?
+Respuesta: Priorizaría primero el registro de incidencias y la categorización de reportes. Son los cimientos del rompecabezas: el registro es la pieza que entra a la mesa y la categorización es la que empieza a darle orden al conjunto para que la imagen final sea coherente.
+¿Por qué son las más importantes?
+Respuesta: Son las más importantes porque constituyen la estructura que da sentido al resto; sin el registro, no tenemos piezas sobre la mesa, y sin la categorización, el rompecabezas es solo un montón de elementos dispersos sin una imagen clara que revelar.
+¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, una tarea está terminada cuando se cumplen tres condiciones: funciona en la práctica, fue aprobada tras mi validación humana para asegurar que no compromete nuestra integridad, y quedó registrada en Git, dejando una huella trazable que permite que nuestro rompecabezas comunitario siga creciendo de manera transparente.

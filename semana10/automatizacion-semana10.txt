@@ -1,0 +1,4 @@
+Evento: El registro de un nuevo reporte ciudadano en nuestro sistema. Es la señal que le indica al "artesano" (n8n) que una pieza nueva ha sido colocada en el rompecabezas y requiere atención inmediata.
+Acción: Enviar una mensaje establecido para dar información por el medio de comunicación Telegram.
+Mensaje: "¡Atención comunidad! Una nueva pieza ha sido añadida al rompecabezas. Se ha registrado un reporte ciudadano pendiente de revisión. Por favor, accedan al sistema para categorizar y dar seguimiento."
+Información que no debe enviarse: Para proteger la integridad de quienes participan, nunca enviaremos datos que puedan vulnerar su privacidad, tales como: nombres completos, documentos de identidad, direcciones exactas, números telefónicos privados o cualquier tipo de clave de acceso. La tecnología debe servir a la comunidad, no exponerla.

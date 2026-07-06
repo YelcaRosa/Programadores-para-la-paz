@@ -1,0 +1,5 @@
+Como ciudadano, quiero registrar evidencias de una irregularidad, para que la comunidad tenga un punto de partida sólido sobre el cual trabajar.
+Como veedor, quiero categorizar los reportes recibidos, para que las piezas de información no se dispersen y podamos ver la imagen completa de la situación.
+Como gestor de seguridad, quiero validar que los datos personales de los reportes estén protegidos, para garantizar que la tecnología no exponga a quienes confían en nosotros. 
+Como miembro del equipo, quiero recibir una notificación automática cuando se verifique un caso, para asegurar que la respuesta humana sea ágil y precisa. 
+Como coordinador, quiero generar un informe de cierre tras cada iteración, para verificar que el objetivo común de la veeduría se mantenga vigente.
