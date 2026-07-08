@@ -1,0 +1,18 @@
+Entidad: Incidencia
+​Campos principales:
+​id
+​nombre_reporte
+​detalles_problema
+​fecha_ingreso
+​categoria_prioridad
+​Propósito:
+Registrar de manera organizada las situaciones o problemáticas reportadas por la comunidad, permitiendo su correcta identificación para el análisis posterior.
+​Entidad: Seguimiento
+​Campos principales:
+​id
+​incidencia_id
+​estado_actual (ej: pendiente, en revisión, solucionado)
+​nota_tecnica
+​fecha_cambio
+​Propósito:
+Documentar el progreso de cada incidencia, asegurando que el ciudadano pueda verificar el estatus real de su reporte y mantener la trazabilidad de las acciones tomadas.
