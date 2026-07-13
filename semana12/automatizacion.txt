@@ -1,0 +1,3 @@
+Evento: Registro de una nueva causa en la plataforma.
+​Mensaje a enviar: "¡Nueva causa registrada! La comunidad ya puede empezar a sumar sus apoyos en la plataforma."
+​Información que NO debe enviarse por seguridad: Nombres completos de los registrantes, números de identificación (cédulas), direcciones exactas, números de teléfono privados o comentarios con datos sensibles.

@@ -1,0 +1,2 @@
+Entidad: Causa. Sirve para almacenar el "qué" de la petición; es el contenedor principal que agrupa la problemática y la fecha en que se inició.
+​Entidad: Apoyo. Sirve para relacionar a las personas con una causa específica; permite llevar el conteo oficial de cuántos ciudadanos respaldan un tema sin necesidad de exponer datos innecesarios.

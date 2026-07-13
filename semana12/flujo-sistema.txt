@@ -1,0 +1,5 @@
+​El ciudadano ingresa a la plataforma y registra una nueva causa (título y descripción). 
+​La información de la causa se guarda de forma segura en la base de datos.
+​Otros miembros de la comunidad acceden a la vista de causas y registran su apoyo con un clic.
+​El sistema contabiliza los apoyos en tiempo real para verificar el respaldo comunitario.
+​Al alcanzar una meta, el sistema genera automáticamente un documento PDF formal con el resumen de la petición para ser presentado ante las autoridades.
